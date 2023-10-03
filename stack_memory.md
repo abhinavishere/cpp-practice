@@ -1,0 +1,4 @@
+- Everytime a function is called, it gets created in the stack memory
+- All the local variables belonging to that funtion are part of stack frame
+- Once the function call is complete, the stack frame is cleared off
+- The function that is currently called is always on top of stack
