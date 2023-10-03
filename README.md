@@ -1,0 +1,2 @@
+- This is a repository that contains all of the problems practices during my journey of DSA in CPP.
+- I will try to update it everyday.
